@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Logan\\Documents\\CSE 210\\Projects\\Solo Task 01\\Solo Task 01.csproj",
-      "projectName": "Solo Task 01",
-      "projectPath": "C:\\Users\\Logan\\Documents\\CSE 210\\Projects\\Solo Task 01\\Solo Task 01.csproj",
+      "projectUniqueName": "C:\\Users\\Logan\\Documents\\CSE 210\\Projects\\Solo Task 04\\Solo Task 04.csproj",
+      "projectName": "Solo Task 04",
+      "projectPath": "C:\\Users\\Logan\\Documents\\CSE 210\\Projects\\Solo Task 04\\Solo Task 04.csproj",
       "packagesPath": "C:\\Users\\Logan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Logan\\Documents\\CSE 210\\Projects\\Solo Task 01\\obj\\",
+      "outputPath": "C:\\Users\\Logan\\Documents\\CSE 210\\Projects\\Solo Task 04\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Logan\\AppData\\Roaming\\NuGet\\NuGet.Config"
